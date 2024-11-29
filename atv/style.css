@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ }
+  .mae{
+    width: 100vw; 
+     height: 650px;
+     display: grid;
+     grid-template-columns: 1fr 1fr 1fr;
+     grid-template-rows: 1fr 1fr 1fr;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     gap: 20px;
+  }
+ .um{
+    background-image: url("computadorr.jpg");
+    background-size: cover;
+ }
+ .dois{
+     background-image: url("computadorr.jpg");
+     background-size: cover;
+ }
+ .tres{
+     background-image: url("computadorr.jpg");
+     background-size: cover;
+ }
+ .quatro{
+     background-image: url("computadorr.jpg");
+     background-size: cover;
+ }
+.seis{
+ background-image: url("computadorr.jpg");
+ background-size: cover;
+}
+.sete{
+    background-image: url("computadorr.jpg");
+    background-size: cover;
+}
+.oito{
+    background-image: url("computadorr.jpg");
+    background-size: cover;
+}
+.nove{
+    background-image: url("computadorr.jpg");
+    background-size: cover;
+}
+
+
